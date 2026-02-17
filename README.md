@@ -1,7 +1,7 @@
 <div align="center">
 
-[![GitMCP](https://img.shields.io/endpoint?url=https://gitmcp.io/badge/Certora/Ctetetasdasdasdasdasdassdasdassdsasdasdasdasdover)](https://gitmcp.io/Certora/CertoraProver)
-[![Twitter Follow](https://img.shields.io/twitter/follow/certorainc?style=social)](https://x.com/certorainc)
+[![GitMCP](https://img.shields.io/endpoint?url=https://gitmcp.io/badge/Certora/Cintendedover)](https://gitmcp.io/Certora/CertoraProver)
+[![Twitter Follow](https://img.shields.io/twitter/follasdsdsadsadow/certorainc?style=social)](https://x.com/certorainc)
 # </div>Certora Prover
 
 The Certora Prover is a tool for formally verifying smart contracts.
